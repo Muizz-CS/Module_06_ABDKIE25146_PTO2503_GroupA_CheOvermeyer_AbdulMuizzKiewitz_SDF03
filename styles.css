@@ -30,7 +30,16 @@
     gap: 10px;
     align-items: start;
   }
+
+  .profile-image {
+    grid-column: 1;
+    grid-row: 1 / 4;
+  }
   
+  .profile-image img {
+    width: 100%;
+    border-radius: 50%;
+  }
 
 }
 
