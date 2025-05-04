@@ -39,6 +39,7 @@
   .profile-image img {
     width: 100%;
     border-radius: 50%;
+    border: 7px solid #808000;
   }
 
   .profile-user-settings {
