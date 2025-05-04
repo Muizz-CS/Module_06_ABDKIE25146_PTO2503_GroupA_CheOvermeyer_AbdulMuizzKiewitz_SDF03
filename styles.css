@@ -8,6 +8,16 @@
 *::before,
 *::after {
     box-sizing: border-box;
+
+    .flex-container {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        padding: 2rem;
+        max-width: 1000px;
+        margin: auto;
+      }
+    
 }
 
 body {
